@@ -1,0 +1,11 @@
+
+describe("i want to test login component",function{
+    it("Check login tax",func){
+  var tax=10;
+    expect(tax).toBe(10));//asserting value
+    } 
+    
+    it("Check login input element",function){
+        
+    }
+})
